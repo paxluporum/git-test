@@ -1,2 +1,3 @@
 Hello, world!
 Is it Friday yet?
+I don't like the command line because I am not a technomancer.
